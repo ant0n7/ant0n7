@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ant0n7
-- 👀 I’m interested in webdesign, console apps and Linux servers and databases -> Java, C, HTML, php, CSS, mySQL, TypeScript, JavaScript, and more
-- 🌱 I’m currently working at Google
-- 💞️ I’m looking to collaborate on ---
-- 📫 How to reach me: business@antondetken.ch
+Hi, my name is Anton Detken. I'm currently working at [Google](https://github.com/Google) as a software engineer, primarily in web development.
 
 <!---
 ant0n7/ant0n7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
