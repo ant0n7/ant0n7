@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm currently 17 years old and working as a Software Engineer at Google
+  I'm currently working as a Software Engineer at Google
 </h3>
 
 ## 🌐 Webdesign
