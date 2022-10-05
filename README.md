@@ -28,8 +28,8 @@
 
 **Frameworks and Libraries**
 
-![Nuxt 2](https://img.shields.io/badge/nuxt-%2341b883.svg?style=for-the-badge&logo=nuxt&logoColor=%2361DAFB)
-![Nuxt 3](https://img.shields.io/badge/nuxt-%2341b883.svg?style=for-the-badge&logo=nuxt&logoColor=%2361DAFB)
+![Nuxt 2](https://img.shields.io/badge/nuxt%202-%2341b883.svg?style=for-the-badge&logo=nuxt&logoColor=%2361DAFB)
+![Nuxt 3](https://img.shields.io/badge/nuxt%203-%2341b883.svg?style=for-the-badge&logo=nuxt&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%6EB340.svg?style=for-the-badge&logo=spring&logoColor=white)
