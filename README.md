@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  I'm currently working as a Software Engineer at Google
+  This page features some of my projects and skills.
 </h3>
 
 ## 🌐 Webdesign
 - [⚖️ VESPA (European and Swiss Patent Attorney Association)](https://www.vespa.swiss)
-- [💻 Portfolio Page](https://www.antondetken.ch)
+- [💻 Detken Design Portfolio Page](https://www.antondetken.ch)
 
 ## 🌱 Currently Learning
 - Machine Learning and Artificial Intelligence
