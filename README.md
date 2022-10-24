@@ -7,8 +7,9 @@
 </h3>
 
 ## 🌐 Webdesign
-- [⚖️ VESPA (European and Swiss Patent Attorney Association)](https://www.vespa.swiss)
-- [💻 Detken Design Portfolio Page](https://www.detkendesign.com)
+- In Progress: [⚖️ VESPA (European and Swiss Patent Attorney Association)](https://beta.vespa.swiss)
+- [💻 Detken Design](https://www.detkendesign.com)
+- [💻 Detken Development](https://www.detkendevelopment.com)
 
 ## 🌱 Currently Learning
 - Machine Learning and Artificial Intelligence
