@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, my name is Anton Detken
+  Welcome
 </h1>
 
 <h3 align="center">
@@ -8,8 +8,6 @@
 
 ## 🌐 Webdesign
 - In Progress: [⚖️ VESPA (European and Swiss Patent Attorney Association)](https://beta.vespa.swiss)
-- [💻 Detken Design](https://www.detkendesign.com)
-- [💻 Detken Development](https://www.detkendevelopment.com)
 
 ## 🌱 Currently Learning
 - Machine Learning and Artificial Intelligence
