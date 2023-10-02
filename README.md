@@ -10,9 +10,18 @@
 - In Progress: [⚖️ VESPA (European and Swiss Patent Attorney Association)](https://beta.vespa.swiss)
 
 ## 🌱 Currently Learning
-- Machine Learning and Artificial Intelligence
+- Machine Learning
 
 ## 💼 Skills
+
+**Highlights**
+- Backend
+  - C++
+  - (TypeScript)
+- Frontend
+  - TypeScript
+  - NextJS / React
+  - (NuxtJS / Vue)
 
 **Languages**
 
@@ -63,16 +72,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23F5010C.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📈 Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ant0n7&count_private=true&hide=stars&theme=onedark">
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ant0n7&layout=compact&count_private=true&hide=VBA,Dockerfile&langs_count=8&theme=onedark">
-</p>
-
 
 <!---
 ant0n7/ant0n7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
