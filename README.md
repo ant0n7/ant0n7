@@ -2,15 +2,11 @@
   Welcome
 </h1>
 
-<h3 align="center">
-  This page features some of my projects and skills.
+<h3>
+  Note: Most of my contributions are in private repos. Most of my public repos are outdated or experimental.
 </h3>
 
-## 🌐 Webdesign
-- In Progress: [⚖️ VESPA (European and Swiss Patent Attorney Association)](https://beta.vespa.swiss)
-
-## 🌱 Currently Learning
-- Machine Learning
+---
 
 ## 💼 Skills
 
@@ -18,10 +14,14 @@
 - Backend
   - C++
   - (TypeScript)
+  - (Java)
 - Frontend
-  - TypeScript
+  - TypeScript / JavaScript
   - NextJS / React
+  - Lit / Polymer
   - (NuxtJS / Vue)
+- Data
+  - MySQL, MariaDB, PostgreSQL
 
 **Languages**
 
