@@ -19,7 +19,7 @@
   - TypeScript / JavaScript
   - NextJS / React
   - Lit / Polymer
-  - (NuxtJS / Vue)
+  - NuxtJS / Vue
 - Data
   - MySQL, MariaDB, PostgreSQL
 
