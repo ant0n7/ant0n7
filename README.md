@@ -4,7 +4,7 @@
 
 ---
 
-## 💼 Skills
+## 💼 Technical Skills
 
 - Backend
   - C++
@@ -17,4 +17,3 @@
   - NuxtJS / Vue
 - Data
   - SQL (MySQL, MariaDB, PostgreSQL)
- 
