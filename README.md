@@ -5,8 +5,8 @@
 ---
 
 ## 🔓 Open Source
-### @dtkn/ionicons - [GitHub](https://github.com/detkendesign/ionicons) [NPM](https://www.npmjs.com/package/@dtkn/ionicons)
-### @dtkn/utils - [GitHub](https://github.com/detkendesign/utils) [NPM](https://www.npmjs.com/package/@dtkn/utils) (In Progress)
+### @dtkn/ionicons - [GitHub](https://github.com/detkendesign/ionicons) / [NPM](https://www.npmjs.com/package/@dtkn/ionicons)
+### @dtkn/utils - [GitHub](https://github.com/detkendesign/utils) / [NPM](https://www.npmjs.com/package/@dtkn/utils) (In Progress)
 
 ## 💼 Technical Skills
 
